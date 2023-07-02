@@ -1,0 +1,34 @@
+.main{
+    background-image: url('duet.jpg');
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+
+.front{
+    display: block;
+    height: 90px;
+    margin: auto;
+    margin-top: 60px;
+}
+
+.result{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.im{
+    margin-top: 10%;
+    margin-left: 28%;
+    width: 50%;
+    height: 10%;
+}
+.next{
+    background-image: url('2nd.png');
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.btn{
+    margin-top: 50px;
+    background-color: pink;
+}
